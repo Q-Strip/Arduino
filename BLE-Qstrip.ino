@@ -1,6 +1,6 @@
 /*
 //  created   April 2021
-//  by Daan van der Werf - Q-Strip
+//  by Daan van der Werf - Q-Strip 
 //  modified jan - 2022 
 //  This example code is in the public domain.
 
